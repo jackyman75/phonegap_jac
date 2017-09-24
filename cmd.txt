@@ -1,0 +1,16 @@
+to start app on browser
+phonegap serve
+http://localhost:3000/
+
+https://build.phonegap.com
+jackyman75@hotmail.com
+Hxx121
+switch to no key first
+
+then build app
+phonegap remote login
+phonegap remote build android
+
+then go to website select key
+D:\PhonegapProjects\JacKey\my_keystore.keystore
+and then rebuild
